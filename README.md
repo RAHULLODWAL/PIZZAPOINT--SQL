@@ -1,4 +1,4 @@
-# PIZZAPOINT--SQL
+# Pizzapoint-sales-analysis-SQL
 <br>
 •	Conducted detailed data analysis of PizzaPoint sales, utilizing SQL Server to track pizza sales across categories, 
 <br>
